@@ -65,6 +65,9 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dipeshpal&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshpal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://dipeshpal.com
 [twitter]: https://twitter.com/dipesh17pal
 [youtube]: https://youtube.com/dipeshpal17
