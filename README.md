@@ -43,11 +43,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
+- [How to download any Movie, TV show, Games in one click 2020 Latest Method](https://www.youtube.com/watch?v=hcfLE6Qjzvs)
+- [How to get US number for WhatsApp, Calls and OTP (New Method 2020)](https://www.youtube.com/watch?v=aar6w3HLzmY)
+- [5 Best illegal Hacking Application for Android 2020 you must watch](https://www.youtube.com/watch?v=XXUUqVGd2Cw)
+- [Top 5 Android App HACKS 2020 You Must Know](https://www.youtube.com/watch?v=J2QehhG7Xp4)
+- [Install Stock ROM on any OnePlus 7 and 8 Series 2020 and Bootloader Lock | Fix Bootloop](https://www.youtube.com/watch?v=h9AaNCY_5u8)
 <!-- YOUTUBE:END -->
 
 ---
