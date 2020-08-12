@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MIUI 12 Charging Animation for Any ANDROID | MIUI 12 battery charging animation](https://www.youtube.com/watch?v=5bi_zKJPWe4)
 - [Magisk Module to boost PUBG, Increase CPU and GPU performance WITH PROOF](https://www.youtube.com/watch?v=oE7SOjZDmKs)
 - [How to download any Movie, TV show, Games in one click 2020 Latest Method](https://www.youtube.com/watch?v=hcfLE6Qjzvs)
 - [How to get US number for WhatsApp, Calls and OTP (New Method 2020)](https://www.youtube.com/watch?v=aar6w3HLzmY)
 - [5 Best illegal Hacking Application for Android 2020 you must watch](https://www.youtube.com/watch?v=XXUUqVGd2Cw)
-- [Top 5 Android App HACKS 2020 You Must Know](https://www.youtube.com/watch?v=J2QehhG7Xp4)
 <!-- YOUTUBE:END -->
 
 ---
