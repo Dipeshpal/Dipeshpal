@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Android 11 Notification Panel for any Android [No Root] OnePlus Samsung Xiaomi etc.](https://www.youtube.com/watch?v=jIdhb2fKYJg)
 - [MIUI 12 Charging Animation for Any ANDROID | MIUI 12 battery charging animation](https://www.youtube.com/watch?v=5bi_zKJPWe4)
 - [Magisk Module to boost PUBG, Increase CPU and GPU performance WITH PROOF](https://www.youtube.com/watch?v=oE7SOjZDmKs)
 - [How to download any Movie, TV show, Games in one click 2020 Latest Method](https://www.youtube.com/watch?v=hcfLE6Qjzvs)
 - [How to get US number for WhatsApp, Calls and OTP (New Method 2020)](https://www.youtube.com/watch?v=aar6w3HLzmY)
-- [5 Best illegal Hacking Application for Android 2020 you must watch](https://www.youtube.com/watch?v=XXUUqVGd2Cw)
 <!-- YOUTUBE:END -->
 
 ---
