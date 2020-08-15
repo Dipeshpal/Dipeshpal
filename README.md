@@ -48,7 +48,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Dolby Atmos on any OnePlus device Oneplus 8, 7 Series NO ROOT](https://www.youtube.com/watch?v=rbKgWR8qL_4)
+- [Dolby Atmos Equalizer on any OnePlus device Oneplus 8, 7 Series NO ROOT](https://www.youtube.com/watch?v=rbKgWR8qL_4)
 - [Android 11 Notification Panel for any Android [No Root] OnePlus Samsung Xiaomi etc.](https://www.youtube.com/watch?v=jIdhb2fKYJg)
 - [MIUI 12 Charging Animation for Any ANDROID | MIUI 12 battery charging animation](https://www.youtube.com/watch?v=5bi_zKJPWe4)
 - [Magisk Module to boost PUBG, Increase CPU and GPU performance WITH PROOF](https://www.youtube.com/watch?v=oE7SOjZDmKs)
