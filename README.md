@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Best Magisk Modules 2020 [Unseen Modules] Part 2](https://www.youtube.com/watch?v=DAwqOU4JNAc)
 - [Custom Kernel for OnePlus 7 & 7 PRO [Blu Spark] and Restore Stock Kernel + Benchmark](https://www.youtube.com/watch?v=oeu_tQ_B8Pk)
 - [OpenAI GPT-3 all you need to know (Quick Info) After Binod this is THE NEXT BIG THING @Jay Kapoor](https://www.youtube.com/watch?v=j9D03dwtvOc)
 - [Dolby Atmos Equalizer on any OnePlus device Oneplus 8, 7 Series NO ROOT](https://www.youtube.com/watch?v=rbKgWR8qL_4)
 - [Android 11 Notification Panel for any Android [No Root] OnePlus Samsung Xiaomi etc.](https://www.youtube.com/watch?v=jIdhb2fKYJg)
-- [MIUI 12 Charging Animation for Any ANDROID | MIUI 12 battery charging animation](https://www.youtube.com/watch?v=5bi_zKJPWe4)
 <!-- YOUTUBE:END -->
 
 ---
