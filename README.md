@@ -48,7 +48,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Magisk Module to boost PUBG Part-2, Increase CPU and GPU performance WITH PROOF](https://www.youtube.com/watch?v=2bvzb_t_Kyc)
+- [Magisk Module to boost PUBG / COD Part-2, Increase CPU and GPU performance WITH PROOF](https://www.youtube.com/watch?v=2bvzb_t_Kyc)
 - [Best Magisk Modules 2020 [Unseen Modules] Part 2](https://www.youtube.com/watch?v=DAwqOU4JNAc)
 - [Custom Kernel for OnePlus 7 & 7 PRO [Blu Spark] and Restore Stock Kernel + Benchmark](https://www.youtube.com/watch?v=oeu_tQ_B8Pk)
 - [OpenAI GPT-3 all you need to know (Quick Info) After Binod this is THE NEXT BIG THING @Jay Kapoor](https://www.youtube.com/watch?v=j9D03dwtvOc)
