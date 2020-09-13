@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to create your AI Virtual Assistant using Python in 50 lines 10 min](https://www.youtube.com/watch?v=LliTjuxDw_o)
 - [5 PUBG Alternatives in 5 min to play after PUBG Ban 2020](https://www.youtube.com/watch?v=0h55pFo6GgY)
 - [Zeb War Zebronics Budget Gaming Keyboard RGB Best Keyboard under 1000 in 2020](https://www.youtube.com/watch?v=pqXzTqxYRA8)
 - [Best Magisk Modules 2020 [Unseen Modules] Part 2](https://www.youtube.com/watch?v=DAwqOU4JNAc)
 - [Custom Kernel for OnePlus 7 & 7 PRO [Blu Spark] and Restore Stock Kernel + Benchmark](https://www.youtube.com/watch?v=oeu_tQ_B8Pk)
-- [OpenAI GPT-3 all you need to know (Quick Info) After Binod this is THE NEXT BIG THING @Jay Kapoor](https://www.youtube.com/watch?v=j9D03dwtvOc)
 <!-- YOUTUBE:END -->
 
 ---
