@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to watch IPL Live free on Android, PC, TV, IOS direct link](https://www.youtube.com/watch?v=yqdYksuqXqk)
 - [Create a website in 10 min Fastest way to code and deploy a website and start earning today](https://www.youtube.com/watch?v=KnFQbanGiSM)
 - [How to create your AI Virtual Assistant using Python in 50 lines 10 min](https://www.youtube.com/watch?v=LliTjuxDw_o)
 - [5 PUBG Alternatives in 5 min to play after PUBG Ban 2020](https://www.youtube.com/watch?v=0h55pFo6GgY)
 - [Zeb War Zebronics Budget Gaming Keyboard RGB Best Keyboard under 1000 in 2020](https://www.youtube.com/watch?v=pqXzTqxYRA8)
-- [Best Magisk Modules 2020 [Unseen Modules] Part 2](https://www.youtube.com/watch?v=DAwqOU4JNAc)
 <!-- YOUTUBE:END -->
 
 ---
