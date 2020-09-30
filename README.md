@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Create a News Website with WordPress and Earn $2500 per month [Complete Tutorial] Ft. Hostinger](https://www.youtube.com/watch?v=sV2lZkSeIEA)
+- [Create auto News website and earn $2500 per month SEO, Ads, Social Share Tutorial Ft. Hostinger](https://www.youtube.com/watch?v=tDfp9DbQhq0)
+- [Create News Website and Earn $2500 per months Hosting + Domain Ft. Hostinger [With Proof]](https://www.youtube.com/watch?v=OJN-yQnUyG4)
 - [How to watch IPL Live free on Android, PC, TV, IOS direct link](https://www.youtube.com/watch?v=yqdYksuqXqk)
 - [Create a website in 10 min Fastest way to code and deploy a website and start earning today](https://www.youtube.com/watch?v=KnFQbanGiSM)
-- [How to create your AI Virtual Assistant using Python in 50 lines 10 min](https://www.youtube.com/watch?v=LliTjuxDw_o)
-- [5 PUBG Alternatives in 5 min to play after PUBG Ban 2020](https://www.youtube.com/watch?v=0h55pFo6GgY)
-- [Zeb War Zebronics Budget Gaming Keyboard RGB Best Keyboard under 1000 in 2020](https://www.youtube.com/watch?v=pqXzTqxYRA8)
 <!-- YOUTUBE:END -->
 
 ---
