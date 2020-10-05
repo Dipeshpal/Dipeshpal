@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Install Resurrection Remix in OP7 and OP7 Pro | Review and Installation](https://www.youtube.com/watch?v=pmUiKtlUgxA)
 - [Create a News Website with WordPress and Earn $2500 per month [Complete Tutorial] Ft. Hostinger](https://www.youtube.com/watch?v=sV2lZkSeIEA)
 - [Create auto News website and earn $2500 per month SEO, Ads, Social Share Tutorial Ft. Hostinger](https://www.youtube.com/watch?v=tDfp9DbQhq0)
 - [Create News Website and Earn $2500 per months Hosting + Domain Ft. Hostinger [With Proof]](https://www.youtube.com/watch?v=OJN-yQnUyG4)
 - [How to watch IPL Live free on Android, PC, TV, IOS direct link](https://www.youtube.com/watch?v=yqdYksuqXqk)
-- [Create a website in 10 min Fastest way to code and deploy a website and start earning today](https://www.youtube.com/watch?v=KnFQbanGiSM)
 <!-- YOUTUBE:END -->
 
 ---
