@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Realme Buds Q Review after 3 Months Is it worth buying?](https://www.youtube.com/watch?v=GUM6GFmIdHI)
 - [Hostinger vs Godaddy How to choose Hosting and Domain Watch this video before buying Hosting/ Domain](https://www.youtube.com/watch?v=tGNB41tfTa8)
 - [Face Recognition with Python, Deep Learning in 5 Lines 10 Minute](https://www.youtube.com/watch?v=EU0LHtEJTnE)
 - [How to choose the best hosting for your website | How to buy Domain and Hosting](https://www.youtube.com/watch?v=4iaqc0GcqOI)
 - [Install Resurrection Remix in OP7 and OP7 Pro | Review and Installation](https://www.youtube.com/watch?v=pmUiKtlUgxA)
-- [Create a News Website with WordPress and Earn $2500 per month [Complete Tutorial] Ft. Hostinger](https://www.youtube.com/watch?v=sV2lZkSeIEA)
 <!-- YOUTUBE:END -->
 
 ---
