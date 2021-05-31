@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Dipesh][website1] 👋
 
-## I'm  Data Scientist, Developer, YouTuber, Photograper, and Blogger!
+## I'm  Data Scientist, Developer, YouTuber, Photographer, and Blogger!
 - 🔭 I’m currently working as Data Scientist
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -67,9 +67,9 @@
 - www.dipeshpal.in
 
 ---
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dipeshpal&show_icons=true&hide_border=true" />
-
+[![Dipeshpal's Github Stats](https://github-readme-stats.vercel.app/api?username=Dipeshpal&show_icons=true)](https://github.com/Dipeshpal)
+<!--<img align="left" alt="Dipeshpal's Github Stats" src="https://github.com/Dipeshpal/api?username=Dipeshpal&show_icons=true&hide_border=true" />
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshpal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
